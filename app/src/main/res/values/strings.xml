@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Yamyah</string>
+    <string name="submit">submit</string>
+    <string name="userid">userid</string>
+    <string name="password">password</string>
+    <string name="new_user">new_user</string>
+    <string name="number_of_attempts_remaining">number_of_attempts_remaining</string>
+    <string name="register">Register</string>
+    <string name="enter_shop_id">Enter Shop ID</string>
+    <string name="enter_type">Enter Type</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_user_name">Enter User name</string>
+    <string name="already_signed_in">Already Signed In</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="logout">logout</string>
+    <string name="hello">Hello</string>
+</resources>
